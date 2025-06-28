@@ -3,9 +3,9 @@ A comprehensive data analysis project exploring ride trends, revenue patterns, a
 
 ## 📊 Tools & Technologies Used
 
-- **Excel** – Data Cleaning, Pivot Tables  
+- **Excel** – Data Cleaning 
 - **Power BI** – Dashboard Creation & Visualization  
-- **SQL** – Data querying and insights (used in MySQL/SQLite)
+- **SQL** – Data querying and insights (used in MySQL)
 ---
 
 ## 📁 Dataset Description
@@ -27,8 +27,8 @@ I will attach sql queries with answers.
 ## 🚀 How to Run This Project
 
 1. Clone or download the repo
-2. Open the Excel file: `OLA PROJECT.xlsx`
-3. Open the Power BI file: `OLA DATA ANALYSIS PROJECT1.pbix`
+2. Open the Excel file: OLA PROJECT DATASET
+3. Open the Power BI file: OLA PROJECT DASHBOARD
 4. Use SQL queries with your database engine( MySQL )
 
 ---
